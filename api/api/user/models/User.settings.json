@@ -45,6 +45,10 @@
     "filesCreated": {
       "collection": "upload",
       "via": "createdBy"
+    },
+    "cars": {
+      "collection": "car",
+      "via": "contributors"
     }
   },
   "autoCreatedAt": true,

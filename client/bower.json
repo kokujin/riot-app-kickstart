@@ -1,0 +1,27 @@
+{
+  "name": "client",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sharriff Aina <nhytro@googlemail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kokujin/riot-app-kickstart",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "aventadorjs": "^0.1.6",
+    "riot": "^2.3.17",
+    "qwest": "^4.1.1"
+  }
+}
